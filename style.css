@@ -1,9 +1,11 @@
 body {
-  font-family: 'Grandstander', cursive;
-  background-color: #fdfaf6;
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap" rel="stylesheet">, cursive;
+  background-color: #0c0a3eff;
   margin: 0;
   padding: 0;
-  color: #3b3b3b;
+  color: #e0e0e0ff;
 }
 
 .favorite-comic {
