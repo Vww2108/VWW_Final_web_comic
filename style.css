@@ -5,7 +5,7 @@ body {
   background-color: #0c0a3eff;
   margin: 0;
   padding: 0;
-  color: #e0e0e0ff;
+  color: ;
 }
 
 .favorite-comic {
@@ -27,13 +27,13 @@ body {
 
 
 nav {
-  background-color: #7a3b3b; /* muted maroon */
+  background-color: #363020ff; /* muted maroon */
   padding: 1em;
   text-align: center;
 }
 
 nav a {
-  color: #fff8f0;
+  color: #fc9f5bff;
   text-decoration: none;
   margin: 0 15px;
   font-weight: bold;
@@ -43,7 +43,7 @@ nav a {
 nav a.active,
 nav a:hover {
   text-decoration: underline;
-  color: #d6e8e6; /* light blue-gray highlight */
+  color: #fc9f5bff; /* light blue-gray highlight */
 }
 
 main {
@@ -62,7 +62,7 @@ main {
 .comic-page {
   width: 100%;
   max-width: 700px;
-  border: 3px solid #7a3b3b;
+  border: 3px solid #e0e0e0ff;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   border-radius: 6px;
 }
@@ -74,16 +74,16 @@ main {
 .profile-pic {
   width: 180px;
   border-radius: 50%;
-  border: 5px solid #7a3b3b;
+  border: 5px solid #e0e0e0ff;
   margin-bottom: 1em;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
 }
 
 h1, h2 {
-  color: #7a3b3b;
+  color: #fc9f5bff;
 }
 
 p {
   line-height: 1.6;
-  color: #4b4b4b;
+  color:#e0e0e0ff;
 }
