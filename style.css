@@ -2,7 +2,7 @@ body {
  <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap" rel="stylesheet">, cursive;
-  background-color: #0c0a3eff;
+  background-color: #daf5ffff;
   margin: 0;
   padding: 0;
   color: ;
@@ -27,13 +27,13 @@ body {
 
 
 nav {
-  background-color: #363020ff; /* muted maroon */
+  background-color: #616163ff; /* muted maroon */
   padding: 1em;
   text-align: center;
 }
 
 nav a {
-  color: #fc9f5bff;
+  color: #150578ff;
   text-decoration: none;
   margin: 0 15px;
   font-weight: bold;
@@ -43,7 +43,7 @@ nav a {
 nav a.active,
 nav a:hover {
   text-decoration: underline;
-  color: #fc9f5bff; /* light blue-gray highlight */
+  color: #95e06cff; /* light blue-gray highlight */
 }
 
 main {
@@ -80,10 +80,10 @@ main {
 }
 
 h1, h2 {
-  color: #fc9f5bff;
+  color: #150578ff;
 }
 
 p {
   line-height: 1.6;
-  color:#e0e0e0ff;
+  color:#616163ff;
 }
